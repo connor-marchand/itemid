@@ -1,0 +1,9 @@
+[{
+    "modid": "itemid",
+    "name": "Itemid",
+    "version": "1.0.0",
+    "description": "Easiest way to get the full id of an item in your hand!",
+    "authorList": [
+        "Connor Marchand"
+    ]
+}]
